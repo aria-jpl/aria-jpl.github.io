@@ -23,7 +23,7 @@ of this document organizes software information based on pipelines.
 
 _The Coseismic pipeline automatically identifies earthquake events globally, and generates interferograms for before and after the earthqake event_
 
-[![coseismic-diagram](_media/pipelines/coseismic-diagram.png)](_media/pipelines/coseismic-diagram.png)
+[![coseismic-diagram](_media/pipelines/coseismic-diagram.png)](https://aria-jpl.github.io/_media/pipelines/coseismic-diagram.png)
 
 The following GitHub repositories together represent the coseismic pipeline:
 - USGS Earthquake Scraper: https://github.com/aria-jpl/coseismic_usgs_neic
