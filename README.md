@@ -146,6 +146,12 @@ You may run your customized PGE via two methods that are documented below:
 * 0.0.1
     * Work in progress
 
+## Frequently Asked Questions (FAQ)
+
+1. Question 1
+   - Answer to question 1
+2. Question 2
+   - Answer to question 2
 
 ## Contributing
 
