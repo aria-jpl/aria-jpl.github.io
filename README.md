@@ -180,3 +180,19 @@ For all pull requests:
 - A default reviewer(s) should be assigned for newly created tickets, please see [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/enabling-required-reviews-for-pull-requests) for enabling this feature automatically.
 
 # Support
+
+## External-User Support
+
+If you are using ARIA software and require usage assistance, please [file a issue ticket](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) in a respective GitHub repository for which your request pertains.
+
+## Developer / Operations Support
+
+We use [ZenHub](https://www.zenhub.com) for our ticket management system within the internal ARIA community. 
+
+Currently the following ZenHub boards are available, but only to core committers / operators / developers. If you'd like to join the team, please contact [@riverma](https://github.com/riverma).
+
+- [Standard Pipeline Ticket Board](https://app.zenhub.com/workspaces/aria-standard-product-pipeline-60be562fb6fcc60011c05117/board)
+- [On-Demand Pipeline Ticket Board](https://app.zenhub.com/workspaces/aria-on-demand-pipeline-60be569118b5da000fde66b4/board)
+- [Coseismic Pipeline Ticket Board](https://app.zenhub.com/workspaces/aria-coseismic-pipeline-60be55b6396bc50016016635/board)
+- [Developers Ticket Board](https://app.zenhub.com/workspaces/developer-tasks-60e492e13f89fa0015f52fd4/board)
+- [Operations Ticket Board](https://app.zenhub.com/workspaces/operations-tasks-60e4990b6f7b9e00121c1803/board)
